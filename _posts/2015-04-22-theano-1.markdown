@@ -47,7 +47,7 @@ NumPy，大约30s
 SciPy，大约1min
 	python -c "import scipy; scipy.test()"
 Theano，大约30min
-	 python -c "import theano; theano.test()"
+	python -c "import theano; theano.test()"
 
 ### Mac OS
 
